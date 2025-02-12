@@ -1,8 +1,10 @@
-![Header Image](5.png)
+
 
 # 👋 Hi, I'm Rafiqul Islam
 
 ## 🛠️ Junior SQA Engineer | Software Quality Assurance Enthusiast
+![Rafiqul Islam]([https://your-image-url.com/your-image.png](https://github.com/rafiqul-islam23344/-4Beats.git)
+
 
 I am passionate about ensuring software quality through **Manual, Automation, API, and Performance Testing**. With a strong foundation in SDLC, STLC, and Agile methodologies, I aim to streamline and enhance the QA process effectively.
 
