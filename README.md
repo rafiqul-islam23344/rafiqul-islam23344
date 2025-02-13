@@ -10,7 +10,7 @@
   </a>
 </h4>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqul-islam23344" />
 </p>
 
