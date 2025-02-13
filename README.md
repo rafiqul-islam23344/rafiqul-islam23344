@@ -1,6 +1,16 @@
-# 👋 Hi, I'm Rafiqul Islam
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Typing SVG" />
+  </a>
+</h3>
 
-## 🛠️ Junior SQA Engineer | Software Quality Assurance Enthusiast
+<h4 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=🛠️+Junior+SQA+Engineer+|+Software+Quality+Assurance+Enthusiast" alt="Typing SVG" />
+  </a>
+</h4>
+
+
 ![coverphoto](https://raw.githubusercontent.com/rafiqul-islam23344/-4Beats/main/coverphoto.png)
 
 I am passionate about ensuring software quality through **Manual, Automation, API, and Performance Testing**. With a strong foundation in SDLC, STLC, and Agile methodologies, I aim to streamline and enhance the QA process effectively.
