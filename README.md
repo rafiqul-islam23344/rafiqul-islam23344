@@ -61,8 +61,10 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 - 📧 **Email:** rafiqul.islam01408@gmail.com
 
 💡 Always eager to learn and improve software quality! 🚀
+
 ## 🔥 My GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafiqul-islam23344&theme=light-blue)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue)  
+ 
 
 ---  
 
