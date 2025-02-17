@@ -61,7 +61,14 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 - 📧 **Email:** rafiqul.islam01408@gmail.com
 
 💡 Always eager to learn and improve software quality! 🚀
-![GitHub Commit Count](https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Total+Commits&color=0e75b6&style=flat)
+## 🔥 My GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafiqul-islam23344&theme=light-blue)  
+
+---  
+
+## 📊 Total Commits  
+![GitHub Commit Count](https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Total+Commits&color=0e75b6&style=flat)  
+
 ## 📊 My GitHub Stats
 ![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=ADD8E6&title_color=005f9e&text_color=002244&icon_color=005f9e)
 
