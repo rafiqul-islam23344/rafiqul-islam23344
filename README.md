@@ -52,9 +52,7 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 - 🖥️ **Languages:** ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue)
 - 🗄️ **Database Languages:** SQL
 - 📊 **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
-- ## 🔥 My GitHub Streak  
-
-
+  
 ## 📫 Connect with Me
 - 🌍 **GitHub:** [github.com/rafiqul-islam23344](https://github.com/rafiqul-islam23344)
 - 💼 **LinkedIn:** [linkedin.com/in/rafiqulislam233](https://www.linkedin.com/in/rafiqulislam233/)
@@ -65,7 +63,6 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 ## 🔥 My GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue)  
  
-
 ---  
 
 ## 📊 Total Commits  
