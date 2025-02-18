@@ -61,7 +61,8 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 💡 Always eager to learn and improve software quality! 🚀
 
 ## 🔥 My GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafiqul-islam23344&theme=dark&hide_border=true)
+
 
  
 ---  
