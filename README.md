@@ -65,7 +65,8 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rafiqul-islam23344&theme=flat&no-bg=true&margin-w=15)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bg_color=ADD8E6)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bg_color=ADD8E6)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bg_color=30,FFFFE0,FFFFE0
+)
 
 
 
