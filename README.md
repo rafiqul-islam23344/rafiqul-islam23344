@@ -64,7 +64,8 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafiqul-islam23344&theme=dark&hide_border=true)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rafiqul-islam23344&theme=darkhub&margin-w=15)
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Legendary Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=linus%20torvalds)
+
 
 
 
