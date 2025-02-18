@@ -90,7 +90,8 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 ## 🔥 My GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue)  ](https://camo.githubusercontent.com/a673ba1e55ce9f93a803cab922f34a950a531c66825060881cbaa7ab206b2e45/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7261666971756c2d69736c616d3233333434267468656d653d6c696768742d626c7565)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=radical&card_width=445&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=light&card_width=445&langs_count=10)
+
 
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rafiqul-islam23344&theme=flat&no-bg=true&margin-w=15)
