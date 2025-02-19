@@ -13,9 +13,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqul-islam23344" />
 </p>
-https://img.shields.io/github/followers/rafiqul-islam23344?style=social
-https://img.shields.io/github/stars/rafiqul-islam23344?style=social
-
 
 
 
